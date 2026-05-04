@@ -1,0 +1,17 @@
+{
+  "name": "despliegue01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aldo Coronado <aldo.coronado@tecsup.edu.pe>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "nodemon": "^3.1.14"
+  }
+}
